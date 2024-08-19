@@ -1,1 +1,4 @@
 # Hospital.-Management-system
+* The hospital management system allows for efficient tracking and management of patient information, including medical history, appointments, and billing. The use of MongoDB in the MERN stack ensures that data is stored in a flexible and scalable database, making it easy to retrieve and update patient records as needed.
+* With React for the frontend and Node.js for the backend, the system facilitates real-time communication between doctors, nurses, and administrative staff.
+* The system ensures secure access by using JWT (JSON Web Tokens) for user authentication. Different roles (e.g., doctor, nurse, admin) are managed through role-based access control, ensuring that each user can only access the functionalities and data relevant to their role, thereby enhancing security and compliance with healthcare regulations.
